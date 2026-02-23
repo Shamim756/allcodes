@@ -1,0 +1,6 @@
+*.exe
+*.out
+Temporary/
+.cph/
+.vscode/
+.gdb_history
